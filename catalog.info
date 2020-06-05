@@ -1,0 +1,6 @@
+{"adder_service",git,"https://github.com/joq62/"}.
+{"divi_service",git,"https://github.com/joq62/"}.
+{"dns_service",dir,"/home/pi/erlang/erl_infra/"}.
+{"log_service",dir,"/home/pi/erlang/erl_infra/"}.
+{"lib_service",dir,"/home/pi/erlang/erl_infra/"}.
+{"master_service",dir,"/home/pi/erlang/erl_infra/"}.
